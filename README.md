@@ -105,11 +105,13 @@ report → Professional PDF/HTML reports
 
 | Certification | Provider | Year |
 |--------------|----------|------|
-| **CompTIA Security+** | CompTIA | 2024 |
-| **CompTIA Network+** | CompTIA | 2024 |
-| **CompTIA A+** | CompTIA | 2023 |
-| **Google Cybersecurity Certificate** | Google | 2024 |
-| **SOC Analyst Path** | LetsDefend | 2024 |
+| **SOC Analyst+** | LetsDefend | 2025 |
+| **Tata - Cyber Job Sim** | Forage | 2025 |
+| **Tesla - Cyber Job Sim** | Forage | 2025 |
+| **Mastercard - Cyber Job Sim** | Forage | 2025 |
+| **Deloitte Australia- Cyber Job Sim** | Forage | 2025 |
+| **Google Cybersecurity+** | Coursera | 2024 |
+| **Network Defense Essentials** | EC-Council | 2023 |
 
 </div>
 
