@@ -1,7 +1,7 @@
 <div align="center">
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Hi%20I'm%20ABISATH%20!&fontSize=50&fontColor=ffffff&animation=fadeIn)
-
+<img src=https://camo.githubusercontent.com/e832af8144482d61654e53896abd6c2d1fecc67ef39663b8fceac43a2e38adcc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966 />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Engineer;SOC+Analyst;Threat+Detection+Specialist;Security+Automation+Enthusiast" alt="Typing SVG" />
 
   <br>
